@@ -118,7 +118,7 @@ ul.slick-dots{
     text-transform: capitalize;
 }
 .intro_container .intro_container_inner .button:hover{
-    background-color: #05441d;
+    background-color: #05441da1;
 }
 .intro_container .intro_container_inner .rightarrowIcon{
     width: 25px;
@@ -197,7 +197,7 @@ ul.slick-dots{
     text-transform: capitalize;
 }
 .intro_containers .intro_container_inner .button:hover{
-    background-color: #05441d;
+    background-color: #05441da1;
 }
 .intro_containers .intro_container_inner .rightarrowIcon{
     width: 25px;
@@ -268,7 +268,7 @@ ul.slick-dots{
     text-transform: capitalize;
 }
 .intro_containerss .intro_container_inner .button:hover{
-    background-color: #05441d;
+    background-color: #05441da1;
 }
 .intro_containerss .intro_container_inner .rightarrowIcon{
     width: 25px;
@@ -395,7 +395,7 @@ ul.slick-dots{
     display: none;
 }
 .features .inner_features .inner_feature_content div .features_button:hover{
-    background-color: #05441d;
+    background-color: #05441da1;
 }
 .features .more_feature_button_container{
     width: 100%;
@@ -422,7 +422,7 @@ ul.slick-dots{
     
 }
 .features .more_feature_button_container .button:hover{
-    background-color: #05441d;
+    background-color: #05441da1;
 }
 
 /* The About section */
@@ -764,10 +764,10 @@ blockquote:after {
     bottom: 0;
     padding: 10px 20px;
     background-color: #2f3239;
-    border-left: 5px solid #05441d;
+    border-left: 5px solid #dd8b07;
 }
 .home_project_gallery_bottom .image_container .main_container h4{
-    color: #05441d; 
+    color: #dd8b07; 
     margin: 5px 0px;
     font-size: 16px;
 }
@@ -813,10 +813,10 @@ blockquote:after {
     color: #acacac;
 }
 .home_projects .home_projects_gallery .image_container:hover h4{
-    color: #05441d;
+    color: #dd8b07;
 }
 .home_projects .home_projects_gallery .image_container:hover span p{
-    color: #05441d;
+    color: #dd8b07;
 }
 .home_projects .home_projects_gallery .image_container:hover .project_details{
     color: #acacac;
@@ -1402,7 +1402,7 @@ input[type=submit]:hover{
     }
     .about .inner_about .about_top .about_image_container img{
         width: 100%;
-        content: url('../../src/images/luck.jpg');
+        content: url('../../src/images/about_background_unsplash_mobile.jpg');
         border-radius: 10px;
     }
     .about .inner_about .about_top .about_image_container::before{
