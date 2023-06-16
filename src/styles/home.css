@@ -395,7 +395,7 @@ ul.slick-dots{
     display: none;
 }
 .features .inner_features .inner_feature_content div .features_button:hover{
-    background-color: #05441da1;
+    background-color: #05441d79;
 }
 .features .more_feature_button_container{
     width: 100%;
@@ -422,7 +422,7 @@ ul.slick-dots{
     
 }
 .features .more_feature_button_container .button:hover{
-    background-color: #05441da1;
+    background-color: #05441d;
 }
 
 /* The About section */
