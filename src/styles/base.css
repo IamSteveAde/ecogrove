@@ -38,13 +38,13 @@ body{
     font-family: 'Josefin Sans', sans-serif;
 }
 .navbar .logo img{
-    height: 63px;
+    height: 93px;
     cursor: pointer;
     -webkit-transform: scale(1);
 	transform: scale(1);
 	-webkit-transition: .3s ease-in-out;
 	transition: .3s ease-in-out;
-    filter: brightness(2);
+    filter: brightness(1.8);
     
     font-family: 'Josefin Sans', sans-serif;
 }
